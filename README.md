@@ -76,6 +76,7 @@ ffmpeg -i input.mp4 -vf "fps=30,scale=-1:240:flags=lanczos,crop=240:in_h:(in_w-2
 ## 4.结构
 结构分为上壳和下壳，上壳我把里面的空间扩大了，方便塞下音频功放板和麦克风模块。下壳的侧面还留出了一个SD的卡槽，方便随时取下SD卡修改SD卡的内容。
 ![alt text](5.Docs/images/image-5.png)
+
 上下壳我是使用螺丝固定的，型号是M1.6*6
 ![alt text](5.Docs/images/image-6.png)
 
