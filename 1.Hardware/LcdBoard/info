@@ -1,0 +1,133 @@
+{
+  "uuid": "258ef115bb0536bd5e0e9839b4d193b7",
+  "path": "Offline/HoloCubic_TFT",
+  "name": "HoloCubic_TFT",
+  "content": "",
+  "created_at": "2024-06-15 20:54:37",
+  "updated_at": "2024-06-18 20:57:52",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ac60402c4c95d37777a950966a952bae",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "873c1d764ead48a2ae09199b7d768320": 1,
+        "fb6773d964cb4b2cbc8d1e3a47ce4e38": 1,
+        "e417d725bb3342c183b7fd883ed84fb9": 1,
+        "bb009484ef804a24ac5d18c54b249586": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "AFC07-S08FCA-00",
+          1,
+          "FPC-SMD_AFC07-S08FCA-00",
+          "FPC1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C262555",
+            "Manufacturer": "JS(钜硕电子)",
+            "Manufacturer Part": "AFC07-S08FCA-00",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "AFC07-S08FCA-00",
+            "puuid": "14f1416e9e554fb5944640d39835ea94",
+            "uuid": "fb6773d964cb4b2cbc8d1e3a47ce4e38"
+          }
+        ],
+        [
+          "AO3415_C700955",
+          1,
+          "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+          "Q3",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C700955",
+            "Manufacturer": "HUASHUO(华朔)",
+            "Manufacturer Part": "AO3415",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://so.szlcsc.com/global.html?k=C700955&ref=editor",
+            "spiceSymbolName": "AO3415_C700955",
+            "puuid": "b3b82869fa924bae820e3a6cfb44d689",
+            "uuid": "873c1d764ead48a2ae09199b7d768320"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "LCD_240x240",
+          1,
+          "LCD_240X240",
+          "U1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier": "",
+            "Supplier Part": "",
+            "link": "",
+            "Contributor": "kangkang198",
+            "spiceSymbolName": "LCD_240x240",
+            "puuid": "6f6d918af0b24ef18bd61c6026288551",
+            "uuid": "e417d725bb3342c183b7fd883ed84fb9"
+          }
+        ]
+      ],
+      "updateTime": 1718714962,
+      "createTime": 1718456077,
+      "histories": [],
+      "created_at": "2024-06-15 20:54:37",
+      "updated_at": "2024-06-18 20:49:22"
+    },
+    {
+      "uuid": "7ed22b0c84b64559d74a48685e6d7bb9",
+      "puuid": "258ef115bb0536bd5e0e9839b4d193b7",
+      "title": "PCB_HoloCubic_TFT",
+      "filename": "PCB_HoloCubic_TFT.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "14f1416e9e554fb5944640d39835ea94": 1,
+        "b3b82869fa924bae820e3a6cfb44d689": 1,
+        "6f6d918af0b24ef18bd61c6026288551": 1,
+        "398691f1f785460098bbe5ee6590333c": 1
+      },
+      "BOM": [],
+      "updateTime": 1718715472,
+      "createTime": 1718631903,
+      "histories": [],
+      "created_at": "2024-06-17 21:45:03",
+      "updated_at": "2024-06-18 20:57:52"
+    }
+  ],
+  "sort": [],
+  "title": "HoloCubic_TFT",
+  "foldername": "HoloCubic_TFT",
+  "schfilename": "HoloCubic_TFT.json",
+  "schfilemtime": 1718714962416
+}

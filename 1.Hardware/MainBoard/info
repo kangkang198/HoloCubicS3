@@ -1,0 +1,383 @@
+{
+  "uuid": "339790029f4ba497f67b46ba439429a5",
+  "path": "Offline/HoloCubic_S3",
+  "name": "HoloCubic_S3",
+  "content": "",
+  "created_at": "2024-08-25 11:37:51",
+  "updated_at": "2025-04-10 21:46:05",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "8d95dca186e089dc77108f60915ec7d6",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e4bfcf5113994e338e42dc5adf3849df": 1,
+        "01f8feef49be43dcbfbe672254cb7b57": 12,
+        "f29f57ac58b24353a27984c5792bbc76": 20,
+        "e1eca8da0524464bbb2826bdc0de7c10": 2,
+        "4b57ffb66597490186fdbe599f9f4581": 1,
+        "48e2f9a1410f4e57a6f783566c3c9596": 1,
+        "fb6773d964cb4b2cbc8d1e3a47ce4e38": 1,
+        "eb35f4eb6d8941a6a7e43acc48ef3b0d": 1,
+        "a571133e57b33f8fdf2317261143470d": 1,
+        "97cbce8569cb436bb9004f5a6d0d022d": 1,
+        "a388b79c6804469cbf4bdac2e017f027": 1,
+        "07b0721d0642381c9404b592ef37c3f0": 1,
+        "7b2cdbeacbdd43a08c18d460668aad87": 1,
+        "d4a33fa3db3549dcbb420bf32337d503": 1,
+        "c6fdd29567224c318f43fe61253a5c50": 1,
+        "41edd43627ca41a28dd37469e5ada1ed": 1,
+        "4036f287af2f48babcb55fd521cfdb9c": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          11,
+          "C0402",
+          "C1,C2,C5,C7,C10,C11,C13,C14,C16,C17,C20",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1uF",
+          2,
+          "C0402",
+          "C3,C8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0402",
+          "C4,C6,C9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2nF",
+          1,
+          "C0402",
+          "C12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10nF",
+          1,
+          "C0402",
+          "C15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10pF",
+          2,
+          "C0402",
+          "C18,C19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TF-012D",
+          1,
+          "TF-SMD_TF-012",
+          "CARD1",
+          {
+            "Manufacturer Part": "TF-012D",
+            "Manufacturer": "HANBO(汉博)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2874207"
+          }
+        ],
+        [
+          "HC-SHD-2*4PLT-G-04",
+          1,
+          "CONN-SMD_8P-P1.00_HC-SHD-2X4PLT-G-04",
+          "CN1",
+          {
+            "Manufacturer Part": "HC-SHD-2*4PLT-G-04",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5342471"
+          }
+        ],
+        [
+          "AFC07-S08FCA-00",
+          1,
+          "FPC-SMD_AFC07-S08FCA-00",
+          "FPC1",
+          {
+            "Manufacturer Part": "AFC07-S08FCA-00",
+            "Manufacturer": "JS(钜硕电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C262555"
+          }
+        ],
+        [
+          "AN2051-245",
+          1,
+          "ANT2051",
+          "L1",
+          {
+            "Manufacturer Part": "AN2051-245",
+            "Manufacturer": "rainsun(霖昱微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99727"
+          }
+        ],
+        [
+          "24nH",
+          1,
+          "L0402-RD",
+          "L2",
+          {
+            "Manufacturer Part": "SDCL1005C24NJTDF",
+            "Manufacturer": "Sunlord(顺络)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C74301"
+          }
+        ],
+        [
+          "XL-3528RGBW-WS2812B",
+          1,
+          "LED-SMD_4P-L3.5-W2.8-BR-1",
+          "LED1",
+          {
+            "Manufacturer Part": "XL-3528RGBW-WS2812B",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2890364"
+          }
+        ],
+        [
+          "S8050_C5249674",
+          2,
+          "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+          "Q1,Q2",
+          {
+            "Manufacturer Part": "S8050",
+            "Manufacturer": "ElecSuper(静芯微）",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5249674"
+          }
+        ],
+        [
+          "10k",
+          9,
+          "R0402",
+          "R1,R3,R4,R5,R6,R12,R13,R14,R15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0R",
+          1,
+          "R0402",
+          "R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.1k",
+          2,
+          "R0402",
+          "R10,R11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32-S3(R8)",
+          1,
+          "QFN-56_L7.0-W7.0-P0.40-TL-EP4.0",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32-S3R8",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2913194"
+          }
+        ],
+        [
+          "CH9102X_C5187522",
+          1,
+          "TQFN-28_L5.0-W5.0-P0.50-BL-EP2.7",
+          "U2",
+          {
+            "Manufacturer Part": "CH9102X",
+            "Manufacturer": "WCH(南京沁恒)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5187522"
+          }
+        ],
+        [
+          "ME6217C33M5G",
+          1,
+          "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+          "U3",
+          {
+            "Manufacturer Part": "ME6217C33M5G",
+            "Manufacturer": "MICRONE(南京微盟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C427602"
+          }
+        ],
+        [
+          "W25Q64JVSSIQ_C179171",
+          1,
+          "SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL",
+          "U4",
+          {
+            "Manufacturer Part": "W25Q64JVSSIQ",
+            "Manufacturer": "WINBOND(华邦)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C179171"
+          }
+        ],
+        [
+          "WAFER-SH1.0-3PLB",
+          1,
+          "CONN-SMD_3P-P1.00_XUNPU_WAFER-SH1.0-3PLB",
+          "U5",
+          {
+            "Manufacturer Part": "WAFER-SH1.0-3PLB",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3029333"
+          }
+        ],
+        [
+          "MPU-6050_C24112",
+          1,
+          "QFN-24_L4.0-W4.0-P0.50-BL-EP2.7",
+          "U6",
+          {
+            "Manufacturer Part": "MPU-6050",
+            "Manufacturer": "TDK InvenSense(应美盛)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C24112"
+          }
+        ],
+        [
+          "TYPEC-304-BCP16",
+          1,
+          "USB-C-SMD_TYPEC-304-BCP16",
+          "USB1",
+          {
+            "Manufacturer Part": "TYPEC-304-BCP16",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C720629"
+          }
+        ],
+        [
+          "40MHz",
+          1,
+          "CRYSTAL-SMD_4P-L2.5-W2.0-BL",
+          "X1",
+          {
+            "Manufacturer Part": "S2240000101050JY",
+            "Manufacturer": "JGHC(晶光华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C555614"
+          }
+        ]
+      ],
+      "updateTime": 1744292765,
+      "createTime": 1724557073,
+      "histories": [],
+      "created_at": "2024-08-25 11:37:53",
+      "updated_at": "2025-04-10 21:46:05"
+    },
+    {
+      "uuid": "b586e5fcc127e6fba0374518cb58467d",
+      "puuid": "339790029f4ba497f67b46ba439429a5",
+      "title": "PCB_HoloCubic_S3",
+      "filename": "PCB_HoloCubic_S3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0821ed6ea50c44f4909e4be7610e4198": 20,
+        "14f1416e9e554fb5944640d39835ea94": 1,
+        "e36379ff93ee4a0c983b832b4d11bb49": 1,
+        "02e7df449347415b8f27e40b853d91f5": 1,
+        "a2c77697c4f2423d9c27e20724fa2168": 1,
+        "0f60b97abad24c7ca751a19474824d3f": 1,
+        "80f55466c5b449cd8bd7bd5528907ee0": 1,
+        "795419fe08b4408b81518abedfb501c7": 1,
+        "b70bae0bf5554f38890502620b7befb0": 1,
+        "e6da1daf17c44c47808e549d42130ce3": 1,
+        "3403ed798b464cbdb77cb90ee466a701": 1,
+        "1a86ee5ffc8442629ff0120391dddb3f": 1,
+        "fafd024f554e426eb74cf4a204aa88b0": 12,
+        "e7f085e4f71344109c090040716070ab": 1,
+        "b3b82869fa924bae820e3a6cfb44d689": 2,
+        "fdf2396de7694c3e8177c1c94fe2bbcd": 1,
+        "40c05886860b4c00b8eb336cb30bd326": 1
+      },
+      "BOM": [],
+      "updateTime": 1741183530,
+      "createTime": 1724595048,
+      "histories": [],
+      "created_at": "2024-08-25 22:10:48",
+      "updated_at": "2025-03-05 22:05:30"
+    }
+  ],
+  "sort": [
+    "8d95dca186e089dc77108f60915ec7d6",
+    "0cff3c13c297a5626a7bda22bde9ef6e"
+  ],
+  "title": "HoloCubic_S3",
+  "foldername": "HoloCubic_S3",
+  "schfilename": "HoloCubic_S3.json",
+  "schfilemtime": 1744292765849
+}
