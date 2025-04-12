@@ -1,7 +1,7 @@
 {
   "uuid": "258ef115bb0536bd5e0e9839b4d193b7",
-  "path": "Offline/HoloCubic_TFT",
-  "name": "HoloCubic_TFT",
+  "path": "Offline/LcdBoard",
+  "name": "LcdBoard",
   "content": "",
   "created_at": "2024-06-15 20:54:37",
   "updated_at": "2024-06-18 20:57:52",
@@ -105,8 +105,8 @@
     {
       "uuid": "7ed22b0c84b64559d74a48685e6d7bb9",
       "puuid": "258ef115bb0536bd5e0e9839b4d193b7",
-      "title": "PCB_HoloCubic_TFT",
-      "filename": "PCB_HoloCubic_TFT.json",
+      "title": "PCB_LcdBoard",
+      "filename": "PCB_LcdBoard.json",
       "description": "",
       "docType": "3",
       "master": "",
@@ -126,8 +126,8 @@
     }
   ],
   "sort": [],
-  "title": "HoloCubic_TFT",
-  "foldername": "HoloCubic_TFT",
-  "schfilename": "HoloCubic_TFT.json",
+  "title": "LcdBoard",
+  "foldername": "LcdBoard",
+  "schfilename": "LcdBoard.json",
   "schfilemtime": 1718714962416
 }

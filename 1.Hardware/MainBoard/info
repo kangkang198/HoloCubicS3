@@ -1,7 +1,7 @@
 {
   "uuid": "339790029f4ba497f67b46ba439429a5",
-  "path": "Offline/HoloCubic_S3",
-  "name": "HoloCubic_S3",
+  "path": "Offline/MainBoard",
+  "name": "MainBoard",
   "content": "",
   "created_at": "2024-08-25 11:37:51",
   "updated_at": "2025-04-10 21:46:05",
@@ -339,8 +339,8 @@
     {
       "uuid": "b586e5fcc127e6fba0374518cb58467d",
       "puuid": "339790029f4ba497f67b46ba439429a5",
-      "title": "PCB_HoloCubic_S3",
-      "filename": "PCB_HoloCubic_S3.json",
+      "title": "PCB_MainBoard",
+      "filename": "PCB_MainBoard.json",
       "description": "",
       "docType": "3",
       "master": "",
@@ -376,8 +376,8 @@
     "8d95dca186e089dc77108f60915ec7d6",
     "0cff3c13c297a5626a7bda22bde9ef6e"
   ],
-  "title": "HoloCubic_S3",
-  "foldername": "HoloCubic_S3",
-  "schfilename": "HoloCubic_S3.json",
+  "title": "MainBoard",
+  "foldername": "MainBoard",
+  "schfilename": "MainBoard.json",
   "schfilemtime": 1744292765849
 }
